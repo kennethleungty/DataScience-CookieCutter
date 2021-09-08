@@ -1,0 +1,3 @@
+Place all your data files here (.csv, .xlsx etc.)
+
+Make sure the data you upload on GitHub does NOT contain any confidential/sensitive information
